@@ -25,7 +25,6 @@
 *.zip
 *.ipynb_checkpoints
 /Datasets/*
-/Cosmo212/Results_JLA/*
 *chcont*
 *chfinal*
 *.txt
